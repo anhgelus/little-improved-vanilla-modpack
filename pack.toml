@@ -1,0 +1,13 @@
+name = "Vanillnations"
+author = "anhgelus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dce69033882fa78e41bee994391adc2751d2656a21b2628d3fe2280f7ed1c947"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
