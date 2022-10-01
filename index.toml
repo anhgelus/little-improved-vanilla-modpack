@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "45976f5a95788d49b1e5e9ef3bf5f6166b116248406e610cc0c99e1ec649a871"
+
+[[files]]
+file = "README.md"
+hash = "b3d4fa21cf525ec2adff3374faf80fdeb56364f25650fa3d434af0118d872421"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "0f7afc68dae138403f9317d9d70922ede68272f3664e211a9e8cf90c2671a513"
+
+[[files]]
+file = "modrinth.index.json"
+hash = "4ac53936835a33944ff10f57cf3c192ed3fdb8d1c9bf65dfaf90f55d10558151"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

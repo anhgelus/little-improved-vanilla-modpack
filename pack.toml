@@ -1,4 +1,4 @@
-name = "Vanillnations"
+name = "Little Improved Vanilla"
 author = "anhgelus"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1270fb332e87ed5b7cbd3df99524a50e0bb3ecc7834a9e44cd3cfef90cc7bdfc"
+hash = "623e1913959b110fa69a60d1a9ecf24cbf9cbb9b178a1aea53196cfe8bfbcd8f"
 
 [versions]
 fabric = "0.14.9"
