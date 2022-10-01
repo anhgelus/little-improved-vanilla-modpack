@@ -1,0 +1,13 @@
+name = "Teams"
+filename = "teams-2.0.2-b1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O1IfC5ea/versions/lTFeThcT/teams-2.0.2-b1.jar"
+hash-format = "sha1"
+hash = "f9771b4188cafa0572f3f1f841b021b167e415df"
+
+[update]
+[update.modrinth]
+mod-id = "O1IfC5ea"
+version = "lTFeThcT"

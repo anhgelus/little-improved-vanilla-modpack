@@ -232,6 +232,11 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
+file = "mods/teams.pw.toml"
+hash = "543b95d1fee78068d0a53bd32bc38a346219181718dc790d6df78b519987ead6"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "5290122207493b6350080792571bceb0038941ffe3a73779e4a78a60f5b9c113"
 metafile = true
