@@ -1,13 +1,13 @@
 name = "Little Improved Vanilla"
 author = "anhgelus"
-version = "1.0.1"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "790b82123e96980a11c8a650d4eeb23049772b8eee686072c16857533467b5d7"
+hash = "b2f68e7c62ce00e09db8b5491e02466d98eba252bbd4a26b414f6a437ab5b403"
 
 [versions]
-fabric = "0.14.9"
-minecraft = "1.19.2"
+fabric = "0.14.19"
+minecraft = "1.19.4"
