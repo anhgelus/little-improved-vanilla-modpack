@@ -249,3 +249,8 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "c5f073cfaea5ec39d3955d4199a5202a40b4e02ea411205e5d0e119c8cdc2a64"
 metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "6fa1d470f0d59df0a748dbeaf8cd3a7c35e0748f9070c953a373081b377f5ef1"
+metafile = true
